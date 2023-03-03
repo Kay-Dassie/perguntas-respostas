@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url('https://i.pinimg.com/736x/8f/15/df/8f15dfb59bc01eb63e2f857402cdbc07.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    color: blck;
+}
+
+.respostas{
+    padding:20px 50px;
+    border-radius: 30px 0;
+    font-size: 20px;
+
+}
+
+.principal{
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    opacity: 70%;
+    border-radius: 80px 0;
+}
+div{
+    background-color: grey;
+    opacity: 70%;
+    border-radius: 80px 0;
+    padding: 0 50px;
+}
